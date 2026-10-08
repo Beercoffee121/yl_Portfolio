@@ -114,7 +114,7 @@ window.PORTFOLIO_CONTENT = {
         "建立 Web 页面之间的导航关系和内容层级。"
       ],
       links: [
-        { label: "打开 Figma 原型 ↗", url: "https://www.figma.com/proto/PSDiLtCFCDkTvZreVEYoIU/EverJoy-%E5%AE%98%E7%BD%91%E5%8E%9F%E5%9E%8B-%C2%B7-Web---Mobile-%C2%B7-V1--Copy-?node-id=2038-494&t=V0z4OH0AXQyeEIUs-0&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2132%3A184&hide-ui=1" }
+        { label: "打开 Figma 原型 ↗", url: "https://www.figma.com/proto/NvhNs25GoVXeeaOxJHfkfL/EverJoy-%E5%AE%98%E7%BD%91%E5%8E%9F%E5%9E%8B-%C2%B7-Web---Mobile-%C2%B7-V1?node-id=155-2164&p=f&t=9r8oE5GpyB2EBGna-0&scaling=min-zoom&content-scaling=fixed&page-id=151%3A2&starting-point-node-id=155%3A2164" }
       ],
       experienceTitle: "建议查看顺序",
       experience: ["首页 → 游戏展示 → 商城 → 社区；本版本主要展示基础结构和交互设计。"],
