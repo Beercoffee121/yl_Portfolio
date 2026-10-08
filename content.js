@@ -3,7 +3,7 @@
  * 以后更新作品集，主要修改这一个文件即可。
  * 1. 修改引号里的中文：项目介绍、个人参与、主要设计内容等。
  * 2. 更新 url 字段：Figma / Dify 体验链接。
- * 3. 更换工作流截图：将新图片覆盖同名 jpg 文件。
+ * 3. 更换工作流截图：将新图片覆盖同名 png 文件。
  * 4. 修改完在 GitHub 点击 Commit changes，网站会自动更新。
  *
  * 请保留英文引号、逗号、花括号等符号。
@@ -39,7 +39,7 @@ window.PORTFOLIO_CONTENT = {
       links: [
         { label: "尝试 Demo ↗", url: "https://udify.app/chat/WWByT3n4FkqQuhuU" }
       ],
-      image: "bus-workflow.jpg",
+      image: "bus-workflow.png",
       imageAlt: "公交/小红车工作流截图，展示意图分流和多个工具节点",
       imageCaption: "Dify Workflow 实际截图（点击图片可放大）",
       exampleTitle: "测试问题与历史返回",
@@ -65,7 +65,7 @@ window.PORTFOLIO_CONTENT = {
       links: [
         { label: "尝试 Demo ↗", url: "https://udify.app/workflow/Mc5oHMFqXldd6fQY" }
       ],
-      image: "lenovo-workflow.jpg",
+      image: "lenovo-workflow.png",
       imageAlt: "联想想帮帮 Dify 工作流截图，展示知识检索、多路分支和结果处理",
       imageCaption: "Dify Workflow 实际截图（点击图片可放大）",
       exampleTitle: "推荐测试输入",
