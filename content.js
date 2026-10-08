@@ -90,7 +90,7 @@ window.PORTFOLIO_CONTENT = {
       ],
       links: [
         { label: "员工端 Figma 原型 ↗", url: "https://www.figma.com/proto/VX5fC0CB0PQjHGvnVCxBqR/EverJoy-%E7%A7%AF%E5%88%86%E5%95%86%E5%9F%8E-Phase-1-%E5%8E%9F%E5%9E%8B?node-id=258-2774&p=f&t=9r8oE5GpyB2EBGna-0&scaling=min-zoom&content-scaling=fixed&page-id=258%3A2773&starting-point-node-id=258%3A2774" },
-        { label: "管理员端 Figma 原型 ↗", url: "https://www.figma.com/proto/VX5fC0CB0PQjHGvnVCxBqR/EverJoy-%E7%A7%AF%E5%88%86%E5%95%86%E5%9F%8E-Phase-1-%E5%8E%9F%E5%9E%8B?node-id=371-3&p=f&t=9r8oE5GpyB2EBGna-0&scaling=min-zoom&content-scaling=fixed&page-id=371%3A2&starting-point-node-id=371%3A3&show-proto-sidebar=1" }
+        { label: "管理员端 Figma 原型 ↗", url: "https://www.figma.com/proto/VX5fC0CB0PQjHGvnVCxBqR/EverJoy-%E7%A7%AF%E5%88%86%E5%95%86%E5%9F%8E-Phase-1-%E5%8E%9F%E5%9E%8B?node-id=371-3&p=f&t=9r8oE5GpyB2EBGna-0&scaling=scale-down-width&content-scaling=fixed&page-id=371%3A2&starting-point-node-id=371%3A3" }
       ],
       experienceTitle: "建议查看顺序",
       experience: [
