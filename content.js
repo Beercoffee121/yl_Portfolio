@@ -43,8 +43,8 @@ window.PORTFOLIO_CONTENT = {
       imageAlt: "公交/小红车工作流截图，展示意图分流和多个工具节点",
       imageCaption: "Dify Workflow 实际截图（点击图片可放大）",
       exampleTitle: "测试问题与历史返回",
-      exampleQuestion: "武林广场附近哪里有小红车可以借？",
-      exampleAnswer: "武林广场附近暂时没有查询到可借的小红车站点，范围内暂无可用车辆。提醒：车辆余量可能会实时变化，建议您稍后再试，或前往其他区域查询。",
+      exampleQuestion: "武林广场是否有公交站点？",
+      exampleAnswer: "武林广场附近有公交站点，按距离从近到远为您找到以下5个：1. 武林广场西（模拟）距离：约108米 无障碍：是 站点状态：正常 2... ",
       exampleNote: "以上为本地测试数据产生的历史回答，不代表真实的实时车辆情况。",
       notice: "此项目为独立 Demo，在线体验可能无法正常回复；不作为实际出行信息来源。"
     },
